@@ -308,12 +308,13 @@ tpot-honeypot-investigation/
 ![MiniPrint Port 9100](screenshots/miniprint-port-9100.png.jpg)
 
 ![MiniPrint Activity Timeline](screenshots/miniprint-timeline.png.jpg)
-Investigation Reports
+
+## Investigation Reports
 
 You can access the complete project reports below:
 
-• Download Investigation Report (PDF)
-• Download Editable Project Report (Word)
+- [Download Investigation Report &#40;PDF&#41;](Investigation-report.pdf.pdf)
+- [Download Editable Project Report &#40;Word&#41;](Honeypot%20Project%20.docx)
 
 
 
