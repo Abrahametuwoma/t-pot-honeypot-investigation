@@ -275,13 +275,39 @@ tpot-honeypot-investigation/
 
 ⸻
 
-Investigation Screenshots
+## Investigation Screenshots
 
-1. T-Pot Dashboard
+### 1\. T\-Pot Dashboard
 
-2. Cowrie Investigation
+![T-Pot Dashboard Overview](screenshots/tpot-dashboard-overview.png.jpg)
 
-3. MiniPrint Investigation
+![T-Pot Dashboard Attacks](screenshots/tpot-dashboard-attacks.png.jpg)
+
+![T-Pot Dashboard Events](screenshots/tpot-dashboard-events.png.jpg)
+
+### 2\. Cowrie Investigation
+
+![Cowrie Usernames](screenshots/cowrie-usernames.png.jpg)
+
+![Cowrie Passwords](screenshots/cowrie-passwords.png.jpg)
+
+![Cowrie Source IPs](screenshots/cowrie-source-ips.png.jpg)
+
+![Cowrie GeoIP](screenshots/cowrie-geoip.png.jpg)
+
+![Cowrie Destination Ports](screenshots/cowrie-destination-ports.png.jpg)
+
+### 3\. MiniPrint Investigation
+
+![MiniPrint Event Types](screenshots/miniprint-events.png.jpg)
+
+![MiniPrint Source IPs](screenshots/miniprint-source-ips.png.jpg)
+
+![MiniPrint GeoIP](screenshots/miniprint-geoip.png.jpg)
+
+![MiniPrint Port 9100](screenshots/miniprint-port-9100.png.jpg)
+
+![MiniPrint Activity Timeline](screenshots/miniprint-timeline.png.jpg)
 
 
 
