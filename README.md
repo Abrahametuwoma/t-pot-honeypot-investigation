@@ -279,7 +279,7 @@ tpot-honeypot-investigation/
 
 ### 1\. T\-Pot Dashboard
 
-![T-Pot Dashboard Overview](screenshots/tpot-dashboard-overview.png.jpg)
+![T-Pot Dashboard Overview](screenshots/tpot-dashboard-overview.jpg)
 
 ![T-Pot Dashboard Attacks](screenshots/tpot-dashboard-attacks.png.jpg)
 
