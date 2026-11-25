@@ -269,3 +269,41 @@ tpot-honeypot-investigation/
 **Analysis Tool:** ELK Stack / Kibana  
 **Honeypots:** Cowrie and MiniPrint  
 **Focus:** Network Security Monitoring and Threat Analysis
+
+
+
+
+⸻
+
+Investigation Screenshots
+
+1. T-Pot Dashboard
+
+2. Cowrie Investigation
+
+3. MiniPrint Investigation
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
