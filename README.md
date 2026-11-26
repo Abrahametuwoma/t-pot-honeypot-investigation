@@ -251,7 +251,7 @@ The findings demonstrate how exposed network services can attract suspicious act
 - Some Cowrie username and password records contained HTTP-related information and require validation.
 - Observed activity suggests possible attacks but does not prove that a real production system was compromised.
 
-10. Project Evidence
+## 10. Project Evidence
 
 This repository contains the evidence and documentation of the honeypot investigation.
 
