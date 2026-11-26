@@ -255,8 +255,10 @@ The findings demonstrate how exposed network services can attract suspicious act
 
 This repository contains the evidence and documentation of the honeypot investigation.
 
-• screenshots/ – Kibana dashboards and investigation screenshots from T-Pot, Cowrie and MiniPrint.
+• screenshots/– Kibana dashboards and investigation screenshots from T-Pot, Cowrie and MiniPrint.
+
 • Investigation-report.pdf.pdf – Complete investigation report in PDF format.
+
 • Honeypot Project .docx – Editable Word version of the investigation report.
 
 The screenshots and reports provide supporting evidence of the analysis, findings and interpretations documented in this project.
