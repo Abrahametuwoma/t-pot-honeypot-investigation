@@ -251,16 +251,15 @@ The findings demonstrate how exposed network services can attract suspicious act
 - Some Cowrie username and password records contained HTTP-related information and require validation.
 - Observed activity suggests possible attacks but does not prove that a real production system was compromised.
 
-## 10. Project Evidence
+10. Project Evidence
 
-Kibana screenshots and investigation report can be added to the repository.
+This repository contains the evidence and documentation of the honeypot investigation.
 
-Suggested folder structure:
+• screenshots/ – Kibana dashboards and investigation screenshots from T-Pot, Cowrie and MiniPrint.
+• Investigation-report.pdf.pdf – Complete investigation report in PDF format.
+• Honeypot Project .docx – Editable Word version of the investigation report.
 
-tpot-honeypot-investigation/
-- README.md
-- screenshots/
-- docs/
+The screenshots and reports provide supporting evidence of the analysis, findings and interpretations documented in this project.
 
 ## Project Information
 
