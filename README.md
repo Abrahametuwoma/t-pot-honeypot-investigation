@@ -315,7 +315,7 @@ The screenshots and reports provide supporting evidence of the analysis, finding
 You can access the complete project reports below:
 
 - [Download Investigation Report &#40;PDF&#41;](Investigation-report.pdf.pdf)
-- [Download Editable Project Report &#40;Word&#41;](Honeypot%20Project%20.docx)
+- [Download Investigation Report (Word)](T-Pot-Honeypot-Investigation-Report.docx)
 
 
 
